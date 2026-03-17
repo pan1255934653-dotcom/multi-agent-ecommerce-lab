@@ -1,0 +1,59 @@
+[
+  {
+    "product_id": "P-PHTEE-001",
+    "name": "Philippines Fiesta Graphic Printed Tee",
+    "market": "PH",
+    "market_context": "Philippines TikTok Shop - Metro Manila & Cebu core demand",
+    "category": "printed_tshirt",
+    "style_keywords": ["graphic print", "streetwear", "print", "oversized"],
+    "price": 349,
+    "cost": 118,
+    "inventory": 84,
+    "status": "active",
+    "metrics": {
+      "views_7d": 28600,
+      "orders_7d": 402,
+      "conversion_rate": 0.021,
+      "refund_rate": 0.034,
+      "gmv_7d": 140298
+    }
+  },
+  {
+    "product_id": "P-PHTEE-002",
+    "name": "Manila Jeepney Retro Print Tee",
+    "market": "PH",
+    "market_context": "Philippines TikTok Shop - NCR youth casualwear",
+    "category": "printed_tshirt",
+    "style_keywords": ["retro", "print", "jeepney", "unisex"],
+    "price": 329,
+    "cost": 110,
+    "inventory": 0,
+    "status": "out_of_stock",
+    "metrics": {
+      "views_7d": 19800,
+      "orders_7d": 167,
+      "conversion_rate": 0.0174,
+      "refund_rate": 0.026,
+      "gmv_7d": 54943
+    }
+  },
+  {
+    "product_id": "P-PHTEE-003",
+    "name": "Cebu Summer Coconut Print Tee",
+    "market": "PH",
+    "market_context": "Philippines TikTok Shop - Visayas summer leisure angle",
+    "category": "printed_tshirt",
+    "style_keywords": ["summer", "coconut", "print", "couple tee"],
+    "price": 309,
+    "cost": 102,
+    "inventory": 156,
+    "status": "active",
+    "metrics": {
+      "views_7d": 14400,
+      "orders_7d": 93,
+      "conversion_rate": 0.0064,
+      "refund_rate": 0.021,
+      "gmv_7d": 28737
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "event_id": "EV-PH-WEATHER-001",
+    "title": "Metro Manila heat index spike lifts breathable printed tee demand",
+    "source_type": "weather",
+    "source_tier": "high",
+    "update_cadence": "realtime",
+    "freshness_window": "12h",
+    "captured_at": "2026-03-17T15:00:00+08:00",
+    "published_at": "2026-03-16T23:00:00+08:00",
+    "impact_direction": "positive",
+    "severity": "medium",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "summary": "PAGASA-style heat conditions above 40C favor light cotton graphic tees in NCR same-day browsing windows.",
+    "evidence": {
+      "geo": "Metro Manila",
+      "temperature_c": 35,
+      "heat_index_c": 44,
+      "keyword": "breathable printed tee"
+    }
+  },
+  {
+    "event_id": "EV-PH-NEWS-001",
+    "title": "Philippines campus fair season drives casual printed tee search uplift",
+    "source_type": "news",
+    "source_tier": "medium",
+    "update_cadence": "intraday",
+    "freshness_window": "24h",
+    "captured_at": "2026-03-17T15:00:00+08:00",
+    "published_at": "2026-03-16T10:00:00+08:00",
+    "impact_direction": "positive",
+    "severity": "medium",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "summary": "Local commerce/news watch suggests youth event traffic is lifting low-ticket graphic shirt interest on TikTok Shop Philippines.",
+    "evidence": {
+      "geo": "NCR + Calabarzon",
+      "angle": "back-to-campus casualwear",
+      "keyword": "printed tee philippines"
+    }
+  },
+  {
+    "event_id": "EV-PH-RULE-001",
+    "title": "TikTok Shop PH reminds sellers to label print placement and fabric claims clearly",
+    "source_type": "platform_rule",
+    "source_tier": "high",
+    "update_cadence": "periodic",
+    "freshness_window": "14d",
+    "captured_at": "2026-03-17T15:00:00+08:00",
+    "published_at": "2026-03-10T09:00:00+08:00",
+    "impact_direction": "positive",
+    "severity": "high",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "summary": "Platform rule bulletin emphasizes clearer size chart, fabric blend, and print-area disclosure for apparel listings.",
+    "evidence": {
+      "compliance_focus": ["fabric claim", "print placement", "size chart"],
+      "channel": "TikTok Shop Philippines seller center"
+    }
+  },
+  {
+    "event_id": "EV-PH-POLICY-001",
+    "title": "PH customs review may tighten apparel clearance checks for declared fabric details",
+    "source_type": "policy",
+    "source_tier": "high",
+    "update_cadence": "periodic",
+    "freshness_window": "21d",
+    "captured_at": "2026-03-17T15:00:00+08:00",
+    "published_at": "2026-03-01T08:00:00+08:00",
+    "impact_direction": "negative",
+    "severity": "high",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "summary": "Policy-watch sample indicates tighter declaration checks could delay inbound replenishment if fabric composition and print details are inconsistent.",
+    "evidence": {
+      "policy_focus": ["fabric declaration", "apparel clearance", "import paperwork"],
+      "channel": "policy watch sample"
+    }
+  },
+  {
+    "event_id": "EV-PH-COMP-001",
+    "title": "Competing PH seller cuts oversized graphic tee bundle price by 12%",
+    "source_type": "competitor",
+    "source_tier": "medium",
+    "update_cadence": "intraday",
+    "freshness_window": "24h",
+    "captured_at": "2026-03-17T15:00:00+08:00",
+    "published_at": "2026-03-16T06:00:00+08:00",
+    "impact_direction": "negative",
+    "severity": "high",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "summary": "Competitor storefront in Manila is discounting 2-pack print tees, threatening our mid-ticket conversion.",
+    "evidence": {
+      "seller": "Manila Print Lab",
+      "price_move_pct": -12,
+      "sku_focus": "oversized graphic tee bundle"
+    }
+  },
+  {
+    "event_id": "EV-PH-TREND-001",
+    "title": "Barako and jeepney nostalgia prints emerge as TikTok PH breakout clue",
+    "source_type": "trend_signal",
+    "source_tier": "low",
+    "update_cadence": "slow_variable",
+    "freshness_window": "7d",
+    "captured_at": "2026-03-17T15:00:00+08:00",
+    "published_at": "2026-03-13T08:00:00+08:00",
+    "impact_direction": "positive",
+    "severity": "medium",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "summary": "Pattern watch from saved videos and comments hints localized retro prints may become the next winning motif.",
+    "evidence": {
+      "motifs": ["jeepney", "barako", "fiesta typography"],
+      "signal_basis": "saved-video motif clustering"
+    }
+  }
+]

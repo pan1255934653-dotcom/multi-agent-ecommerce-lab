@@ -1,0 +1,38 @@
+[
+  {
+    "campaign_id": "AD-PH-TEE-001",
+    "name": "TikTok PH printed tee broad scale",
+    "channel": "tiktok_shop_ph",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "status": "active",
+    "budget": 8500,
+    "spend_24h": 7920,
+    "impressions_24h": 206000,
+    "clicks_24h": 6489,
+    "ctr": 0.0315,
+    "cpc": 1.22,
+    "conversions_24h": 286,
+    "cvr": 0.0441,
+    "roas": 3.9,
+    "linked_product_id": "P-PHTEE-001"
+  },
+  {
+    "campaign_id": "AD-PH-TEE-002",
+    "name": "TikTok PH retro print tee test",
+    "channel": "tiktok_shop_ph",
+    "market": "PH",
+    "category": "printed_tshirt",
+    "status": "active",
+    "budget": 4200,
+    "spend_24h": 4015,
+    "impressions_24h": 132400,
+    "clicks_24h": 1961,
+    "ctr": 0.0148,
+    "cpc": 2.05,
+    "conversions_24h": 35,
+    "cvr": 0.0178,
+    "roas": 0.96,
+    "linked_product_id": "P-PHTEE-003"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "creator_id": "CR-PH-001",
+    "name": "Mika Fits PH",
+    "status": "ready",
+    "tier": "mid",
+    "market": "PH",
+    "content_focus": "TikTok Philippines streetwear try-on",
+    "last_content_roas": 3.4,
+    "reply_sla_hours": 6,
+    "risk_flags": []
+  },
+  {
+    "creator_id": "CR-PH-002",
+    "name": "Cebu Budget Finds",
+    "status": "awaiting_sample",
+    "tier": "micro",
+    "market": "PH",
+    "content_focus": "budget printed tee hauls",
+    "last_content_roas": 2.2,
+    "reply_sla_hours": 12,
+    "risk_flags": []
+  },
+  {
+    "creator_id": "CR-PH-003",
+    "name": "Nico Campus Picks",
+    "status": "overdue",
+    "tier": "mid",
+    "market": "PH",
+    "content_focus": "campus graphic tee reviews",
+    "last_content_roas": 0.9,
+    "reply_sla_hours": 48,
+    "risk_flags": ["late_delivery"]
+  }
+]
